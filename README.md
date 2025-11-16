@@ -15,6 +15,7 @@ This project implements GPU-accelerated image rotation using NVIDIA Performance 
 
 The rotation uses nearest-neighbor interpolation and calculates the appropriate bounding box to contain the entire rotated image.
 
+
 ## Project Structure
 
 ```
